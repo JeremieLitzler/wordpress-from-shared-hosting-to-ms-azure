@@ -1,0 +1,1 @@
+mv phpmyadmin/ hidden_phpmyadmin/
